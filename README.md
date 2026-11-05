@@ -1,4 +1,4 @@
-# React Login UI
+# React Login UI (Interface do Usuário)
 
 Projeto de uma interface de login desenvolvida com **React**, **TypeScript** e **Vite**, com o objetivo de praticar o desenvolvimento de interfaces web utilizando tecnologias modernas.
 
