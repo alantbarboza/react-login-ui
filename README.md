@@ -14,13 +14,13 @@ Projeto de uma interface de login desenvolvida com **React**, **TypeScript** e *
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/alantbarboza/login-reactjs.git
+git clone https://github.com/alantbarboza/react-login-ui.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd login-reactjs
+cd react-login-ui
 ```
 
 3. Instale as dependências:
